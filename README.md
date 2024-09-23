@@ -13,22 +13,21 @@
   </a>
 </div>
 <h1 align="center">
-  My name is Breno Andrade, <br>i'm a aspiring Full Stack Developer.
+  Meu nome é Breno Andrade, <br>sou um aspirante a Dev Full Stack.
 </h1>
 
 ---
 
-### A few things about me:
+### Algumas coisas sobre mim:
 
- - I’m currently a student of Analysis and Systems Development.
- - Right now i'm learning Game Development using JavaScript.
- - I'm 25 years old.
- - Born in Bahia, Brazil.
- - Fun fact: I play piano.
+ - Atualmente estou estudante Desenvolvimento de Sistemas.
+ - Tenho 25 anos.
+ - Nascido e criado na Bahia.
+ - Toco piano.
 
 ---
 
-### Progamming languages and Tools i've used:
+### Linguagens e ferramentas de programação que já utilizei:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
