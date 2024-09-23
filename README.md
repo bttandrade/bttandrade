@@ -20,7 +20,7 @@
 
 ### Algumas coisas sobre mim:
 
- - Atualmente estou estudante Desenvolvimento de Sistemas.
+ - Atualmente estou estudando Desenvolvimento de Sistemas.
  - Tenho 25 anos.
  - Nascido e criado na Bahia.
  - Toco piano.
